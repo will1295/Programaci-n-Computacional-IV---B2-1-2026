@@ -1,0 +1,40 @@
+1.Una agencia de turismo opera diferentes hoteles
+    estos hoteles tienen un tarifa de precio por noche.
+    Asimismo el gobierno opera una tarifa por turismo
+    dependiendo de la localización del hotel:
+    -Playa 20%
+    -Bosque 15%
+    -Ciudad 25%
+Calcule con estos datos cuanto gastaria alguien que quisiera
+hacer una reserva de hotel. Ademas si hace el pago adelantado 
+con tarjeta tiene un descuento del 10%.
+
+2. Pepito Pérez ha contratado una tarjeta de crédito con BancoEstafa S.V. 
+bajo un contrato que estipula un interés mensual del 35%. 
+Para evitar cargos adicionales, Pepito debe pagar el total de sus consumos
+ del mes; de lo contrario, el banco le exigirá un pago mínimo equivalente
+  a la mitad del interés generado (por ejemplo, si gasta $200, el interés 
+  es de $70 y el pago mínimo será de $35). Pepito cuenta con un límite de 
+  crédito de $1,100, pero si sobrepasa esta cantidad entrará en estado 
+  de sobregiro, el cual tiene un tope máximo de $1,700. Al entrar en sobregiro,
+   la tasa de interés aumenta automáticamente al 45% sobre el total gastado. 
+   El sistema debe calcular cuánto debe pagar Pepito en su totalidad 
+   (consumo más intereses) y cuál es su pago mínimo, teniendo en cuenta que 
+   si el consumo excede los $1,700, la tarjeta será declinada inmediatamente.
+
+3. Antonio trabaja de Uber, la empresa calcula automaticamente su ganancia
+    de la siguiente forma: cada kilometro recorrido se gana $1.10, luego
+    Uber se queda con un 20% de la ganancia y el resto le queda al conductor.
+    Ademas si el usuario deja propina esta es libre para el conductor.
+    Calcule cuanto gana el conductor por un viaje que realiza.
+
+4.En El Salvador los empleados tanto publicos como privados tienen derecho
+  a un aguinaldo. Dicho bono se calcula en base a los años trabajados:
+    -Menos de 1 año: Proporcional al tiempo
+    -De 1 a 3 años: 15 dias de salario
+    -De 4 a 10 años: 19 dias de salario
+    -De mas de 10: 21 dias de salario
+
+
+
+
