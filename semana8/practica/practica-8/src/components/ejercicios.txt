@@ -1,0 +1,13 @@
+Realizar un component que muestre una tabla de productos.
+La tabla debe tener al menos estos campos:
+*id del producto
+*nombre del producto
+*precio
+*stock 
+*stock minimo
+*estado (activo o inactivo)
+Ademas de un boton que pueda cambiar el estado del producto
+Solo los productos activos se mostraran en la tabla
+Si el stock minimo supera al stock la fila de la tabla
+debe mostrarse con letra roja
+Utilizar estilos css
